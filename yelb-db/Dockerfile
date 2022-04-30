@@ -1,5 +1,5 @@
-FROM postgres:10.0
-MAINTAINER massimo@it20.info
+FROM devopseasylearning2021/challenger:postgres-10.0
+MAINTAINER EK TECH SOFTWARE SOLUTION
 
 WORKDIR /
 
